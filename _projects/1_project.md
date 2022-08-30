@@ -7,4 +7,9 @@ importance: 1
 category: work
 ---
 
+<!-- _pages/publications.md -->
+<div class="publications">
 
+{% bibliography -f papers -q @*[project={{"ch2o"}}]* %}
+
+</div>
