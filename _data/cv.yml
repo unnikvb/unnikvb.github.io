@@ -17,7 +17,8 @@
       description:
         - Thesis with Prof. Michele Ceriotti
         - Thesis on "Nuclear Quantum Effects - Fast and Accurate"
-        - Awarded the "Early Career Mobility Fellowship" by SNSF
+        - Awarded the "Early Career Mobility Fellowship" by SNSF (2019)
+
     - title: 5-year Integrated M.S. in Chemistry
       institution: Indian Institute of Technology Kanpur (IITK), India
       year: 2010 - 2015
@@ -25,8 +26,8 @@
         - Thesis with Prof. Nishant N. Nair
         - Thesis on "Sampling Free Energy Landscapes as Slices"
         - Best Poster Prize for thesis work at CPMD Meeting in Chicago (2016)
+        - Charpak Scholarship Awardee (2013)
         - Academic Excellence Awardee (2014)
-        - CGPA of 8.3 / 10
 
 - title: Experience
   type: time_table
@@ -64,79 +65,77 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/i-pi/pimd-mooc"> PIMD MOOC </a>
+    - title: PIMD MOOC
       year: 2020-now
-      description: A tutorials for a massive open online course on <a href="https://courseware.epfl.ch/courses/course-v1:EPFL+X+2022/about">Path Integrals in Atomistic Modeling</a>.
+      institution: Tutorials for massive open online course&#58; <a href="https://courseware.epfl.ch/courses/course-v1:EPFL+X+2022/about">Path Integrals in Atomistic Modeling</a>
+      link: https://github.com/i-pi/pimd-mooc
 
-    - title: <a href="https://github.com/venkatkapil24/unwind"> unwind </a>
+    - title: UNWIND
       year: 2017-now
-      description: A postprocessing code that enables calculations of classical and quantum dynamical properties from thermostatted simulations.
+      institution: Code to extract classical and quantum dynamics from thermostatted simulations
+      link: https://github.com/venkatkapil24/unwind
 
-    - title: <a href="https://github.com/i-pi/i-pi">i-PI</a>
+    - title: i-PI
       year: 2015-now
-      description: A modern code for performing quantum-mechanical simulations. i-PI propagates the nuclei of a system while delegating force evaluations to preexisting machine learning, empirical forcefield, and electronic structure codes.
+      institution: A modern code for performing quantum-mechanical simulations
+      link: https://github.com/i-pi/i-pi
 
-    - title: <a href="https://github.com/venkatkapil24/pimd-tutorial"> PIMD Tutorial </a>
+    - title: PIMD-TUTORIAL
       year: 2015-now
-      description: A tutorial on performing path-integral simulations, i.e. simulations that incorporate the quantum-mechanical motion of nuclei with the i-PI code.
-
+      institution: Tutorial on performing path-integral simulations using the i-PI code
+      link: https://github.com/venkatkapil24/pimd-tutorial
 
 
 - title: Grants and Awards
   type: time_table
   contents:
-    - year: 2021
-      items: 
-        - Awarded the Oppenheimer Research Fellowship by the University of Cambridge
-    - year: 2020
-      items: 
-        - Awarded the Sydney Harvey Junior Research Fellowship by Churchill College, University of Cambridge
-    - year: 2020
-      items: 
-        - Principal investigator for 2 computational projects (900,000 and 100,000 GPU node hours) at the Swiss National Supercomputing Center
-    - year: 2019
-      items: 
-        - Awarded the Early Postdoc Mobility Fellowship by the Swiss National Science Foundation
-    - year: 2018
-      items: 
-        - Principal investigator for 4 experimental proposals at Rutherford Appleton Laboratory, UK
-    - year: 2014
-      items:
-        - Academic Excellence Awardee at the Indian Institute of Technology Kanpur
+    - title: Oppenheimer Research Fellowship
+      year: 2021
+      institution: 100,000 GBP (ca.)<br> 36 months<br> Awarded the Oppenheimer Research Fellowship by the University of Cambridge
+    - title: Sydney Harvey Junior Research Fellowship
+      year: 2020
+      institution: 3 years <br> Awarded the Sydney Harvey Junior Research Fellowship by Churchill College, University of Cambridge
+    - title: Swiss National Supercomputing Center
+      year: 2020
+      institution: 900,000 and 100,000 GPU node hours <br> 10 million CPU hours (ca.)<br> Principal investigator for two computational projects at the Swiss National Supercomputing Center
+    - title: Early Postdoc Mobility Fellowship
+      year: 2019
+      institution: 75,000 CHF (ca.)<br> 18 months<br> Awarded the Early Postdoc Mobility Fellowship by the Swiss National Science Foundation
+    - title: Rutherford Appleton Laboratory, UK
+      year: 2018
+      institution: Principal investigator for 4 experimental proposals at Rutherford Appleton Laboratory, UK
+    - title: Academic Excellence Award
+      year: 2014
+      institution: Academic Excellence Awardee at the Indian Institute of Technology Kanpur
+    - title: Charpak Scholarship of Excellence
+      year: 2013
+      institution: Charpak Scholar of Excellence Awardee by the Embassy of France in India for a research-internship in Chimie Paristech, France
 
 
-- title: Workshops, Schools, and Conferences Organized
+- title: Organization of Workshops, Schools, and Conferences
   type: time_table
   contents:
-    - year: 2023 
-      items: 
-        - "The Inaugural Lennard-Jones Centre Meeting: Theory and Molecular Simulation in the Physical Sciences"
-        - Cambridge, UK
+    - title: The Inaugural Lennard-Jones Centre Meeting&#58; Theory and Molecular Simulation in the Physical Sciences
+      year: 2023
+      institution: co-organizer along with David Wales, Rosana Collepardo-Guevara, Stephen Cox, Gábor Csányi, Chris Pickard and Chuck Witt
+      link: https://ljc.group.cam.ac.uk/ljc-events/inaugural-lennard-jones-centre-meeting-theory-and-molecular-simulation-physical-sciences
 
-    - year: 2022
-      items: 
-        - Session on "Interfacial Water: Structure and Dynamics" at the Psi-k Meeting
-        - Lausanne, Switzerland
+    - title: Interfacial Water&#58; Structure and Dynamics session at The Psi-k 2022 Conference
+      year: 2022
+      institution: co-organizer along with Ji Chen, Axel Gross, and Angelos Michaelides
+      link: https://www.psik2022.net/program/symposia
 
-    - year: 2021 
-      items: 
-        - Young and Early Career Researcher’s Workshop on "Machine Learning Interatomic Potentials"
-        - virtual
+    - title: Psi-k Young and Early Career Researcher’s Workshop on Machine Learning Interatomic Potentials
+      year: 2021
+      institution: co-organizer along with Max Veit, Elena Gelžinytė, Felix-Cosmin Mocanu, and Federico Grasselli 
+      link: https://www.mlip-workshop-2021.xyz
 
-    - year: 2021 
-      items: 
-        - Psi-k and CECAM Summer School on "Path Integral Quantum Mechanics: From the Basics to the Latest Developments" 
-        - virtual
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Young and Early Career Researcher’s Workshop on “Machine Learning Interatomic Potentials.
-      items: 
-        - Description 1.
-        - Description 2.
+    - title: Psi-k and CECAM Summer School on Path Integral Quantum Mechanics&#58; From the Basics to the Latest Developments
+      year: 2021
+      institution: co-organizer with Michele Ceriotti, Yair Litman, Thomas Markland, and Mariana Rossi
+      link: https://www.cecam.org/workshop-details/1032
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Running, Cricket, and Cooking
+    - <u>Hobbies:</u> Reading, Running, <a href="https://ncissc.play-cricket.com/player_stats/bowling/5036707?rule_type_id=179&sub_tab=bowling_summary&tab=bowling">Cricket</a>, and Cooking
