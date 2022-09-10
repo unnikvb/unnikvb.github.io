@@ -1,13 +1,13 @@
 ---
 layout: page
 title: machine learning methods
-description: We develop approaches to expidite the production of machine-learning potentials, machine-learning models for electronic properties and associated uncertainty estimates.
+description: 
 img: /assets/img/publication_preview/uncertainty.jpg 
 importance: 3
 category: work
 ---
 
-We develop approaches to expidite the production of machine-learning potentials, machine-learning models for electronic properties and associ    ated uncertainty estimates.
+We develop approaches to expidite the production of machine-learning potentials, machine-learning models for electronic properties and associated uncertainty estimates.
 
 <div class="publications">
   <h2>Selected Publications</h2>
