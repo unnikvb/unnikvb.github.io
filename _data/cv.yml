@@ -62,29 +62,6 @@
       institution: Pfizer Pharmaceuticals Mumbai, India
       year: 05/2012 - 08/2012
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: PIMD MOOC
-      year: 2020-now
-      institution: Tutorials for massive open online course&#58; <a href="https://courseware.epfl.ch/courses/course-v1:EPFL+X+2022/about">Path Integrals in Atomistic Modeling</a>
-      link: https://github.com/i-pi/pimd-mooc
-
-    - title: UNWIND
-      year: 2017-now
-      institution: Code to extract classical and quantum dynamics from thermostatted simulations
-      link: https://github.com/venkatkapil24/unwind
-
-    - title: i-PI
-      year: 2015-now
-      institution: A modern code for performing quantum-mechanical simulations
-      link: https://github.com/i-pi/i-pi
-
-    - title: PIMD-TUTORIAL
-      year: 2015-now
-      institution: Tutorial on performing path-integral simulations using the i-PI code
-      link: https://github.com/venkatkapil24/pimd-tutorial
-
 
 - title: Grants and Awards
   type: time_table
@@ -134,6 +111,26 @@
       year: 2021
       institution: co-organizer with Michele Ceriotti, Yair Litman, Thomas Markland, and Mariana Rossi
       link: https://www.cecam.org/workshop-details/1032
+
+
+- title: Development of Scientific Software / Tutorials
+  type: time_table
+  contents:
+    - title: PIMD MOOC
+      year: 2020-now
+      institution: Tutorials for massive open online course&#58; <a href="https://courseware.epfl.ch/courses/course-v1:EPFL+X+2022/about">Path Integrals in Atomistic Modeling</a>
+      link: https://github.com/i-pi/pimd-mooc
+
+    - title: i-PI
+      year: 2015-now
+      institution: A modern code for performing quantum-mechanical simulations
+      link: https://github.com/i-pi/i-pi
+
+    - title: PIMD-TUTORIAL
+      year: 2015-now
+      institution: Tutorial on performing path-integral simulations using the i-PI code
+      link: https://github.com/venkatkapil24/pimd-tutorial
+
 
 - title: Other Interests
   type: list
