@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-We develop approaches to expidite the production of machine-learning potentials, machine-learning models for electronic properties and associated uncertainty estimates.
+write an overview here
 
 <div class="publications">
   <h2>Selected Publications</h2>
