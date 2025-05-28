@@ -4,7 +4,7 @@ title: covalent inhibitor prodrugs
 permalink: /research/covalentinhibitor/
 description:
 img: assets/img/publication_preview/monolayer-water.png
-importance: 2
+importance: 3
 category: work
 ---
 
