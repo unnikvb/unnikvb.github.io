@@ -224,7 +224,7 @@ scholar:
   last_name: Unnikrishnan
   first_name: [V. B]
 
-  style: nature
+  style: acs
   locale: en
 
   source: /_bibliography/
