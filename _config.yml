@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: V. B
+first_name: Unnikrishnan V. B
 middle_name: 
-last_name: Unnikrishnan 
+last_name: 
 email: uv207@cam.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Unnikrishnan's acadmeic website. (c) Unnikrishnan. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -224,7 +224,7 @@ scholar:
   last_name: Unnikrishnan
   first_name: [V. B]
 
-  style: acs
+  style: apa
   locale: en
 
   source: /_bibliography/
