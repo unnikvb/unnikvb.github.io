@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Quantum nuclear motion
+title: small molecule prodrugs
 description: 
-img: assets/img/publication_preview/mts.jpg
+permalink: /research/smallmolecule/
 importance: 2
 category: work
 ---
