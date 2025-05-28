@@ -221,15 +221,15 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Kapil
-  first_name: [Venkat]
+  last_name: Unnikrishnan
+  first_name: [V. B]
 
-  style: apa
+  style: al-folio
   locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  bibliography_template: entry-linked 
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
