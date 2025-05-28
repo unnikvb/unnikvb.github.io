@@ -225,6 +225,7 @@ scholar:
   first_name: [V. B]
 
   style: apa
+  reference_template: reference-linked
   locale: en
 
   source: /_bibliography/
