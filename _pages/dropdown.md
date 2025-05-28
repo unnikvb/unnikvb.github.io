@@ -5,9 +5,12 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: Covalent Inhibitors
+    - title: covalent inhibitor prodrugs
       permalink: /research/covalentinhibitor/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: small molecule prodrugs
+      permalink: /research/smallmolecule/
+    - title: divider
+    - title: protein chemistry
+      permalink: /research/proteinchemistry/
 ---
