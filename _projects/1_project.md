@@ -1,6 +1,7 @@
 ---
 layout: page
 title: materials under nano-confinement
+permalink: /research/covalentinhibitor/
 description:
 img: assets/img/publication_preview/monolayer-water.png
 importance: 1
