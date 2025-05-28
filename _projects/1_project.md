@@ -1,6 +1,6 @@
 ---
 layout: page
-title: materials under nano-confinement
+title: covalnt inhibitor prodrugs
 permalink: /research/covalentinhibitor/
 description:
 img: assets/img/publication_preview/monolayer-water.png
