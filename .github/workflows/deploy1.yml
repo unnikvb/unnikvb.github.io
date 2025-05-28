@@ -1,0 +1,47 @@
+# .github/workflows/deploy.yml
+name: Deploy site
+
+on:
+  push:
+    branches: [ master ]          # <-- use 'main' if your default branch is called main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # ---- Set up Ruby (needed for Jekyll & al-folio’s extra gems) ----
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Upload build artefact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # allow pushing to gh-pages
+      id-token: write   # required by deploy action
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v2
