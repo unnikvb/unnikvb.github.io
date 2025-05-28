@@ -1,9 +1,9 @@
 ---
 layout: page
-title: machine learning methods
+title: chemistry and chemical biology
 description: 
-img: /assets/img/publication_preview/uncertainty.jpg 
-importance: 3
+permalink: /research/overview/
+importance: 1
 category: work
 ---
 
