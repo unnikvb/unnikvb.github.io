@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-11-08 16:00:00
+date: 2024-11-20 16:00:00
 inline: true
 ---
 
-Venkat Kapil is awarded the <a href="https://www.snf.ch/en/f6JZyI4uQ1mNeq3J/funding/discontinued-funding-schemes/early-postdoc-mobility">Early Postdoc Mobility Fellowship</a> by the <a href="https://www.snf.ch/en">Swiss National Science Foundation</a>. He will spend 18 months in the University of Cambridge as a Visiting Research Fellow and work in close collaboration with <a href="https://www.ch.cam.ac.uk/person/am452"> Angelos Michaelodes</a>.
+Unnikrishnan is awarded PhD in Chemistry at The University of Cambridge  <a href="https://www.repository.cam.ac.uk/items/48c01dbe-5fb5-4f1e-8046-1a45a8ad9a60">Thesis</a>. He will spend 18 months in the University of Cambridge as a Research Associate and work in close collaboration with <a href="https://www.ch.cam.ac.uk/person/gb453"> Prof. Gonçalo Bernardes</a>.
