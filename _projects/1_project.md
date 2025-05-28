@@ -1,16 +1,14 @@
 ---
 layout: page
-title: covalnt inhibitor prodrugs
+title: covalent inhibitor prodrugs
 permalink: /research/covalentinhibitor/
 description:
 img: assets/img/publication_preview/monolayer-water.png
-importance: 1
+importance: 2
 category: work
 ---
 
-We use first-principles level atomistic simulations to understanding how and why properties of water change when confined to cavities of nano    scale dimensions.
-
-<!-- _pages/publications.md -->
+write about covalent inhibitor prodrug project here
 
 <div class="publications">
   <h2>Selected Publications</h2>
