@@ -5,6 +5,9 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
+    - title: overview
+      permalink: /research/overview/
+    - title: divider
     - title: covalent inhibitor prodrugs
       permalink: /research/covalentinhibitor/
     - title: divider
