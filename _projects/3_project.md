@@ -1,8 +1,8 @@
 ---
 layout: page
-title: crystal structure prediction
+title: protein chemistry
 description: 
-img: /assets/img/publication_preview/mol-fluctuations.png 
+permalink: /research/proteinchemistry/
 importance: 3
 category: work
 ---
