@@ -8,7 +8,7 @@ profile:
   image: my-photo.jpg
   image_circular: False # crops the image to make it circular
 #  address: >
-#    <p> Room 314  </p>
+#    <p> Room 226  </p>
 #    <p> Department of Chemistry </p>
 #    <p> University of Cambridge  </p>
 
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 Unnikrishnan's academic journey has been distinguished by prestigious honours, including the Marie Sklodowska-Curie ITN Fellowship, DAAD WISE Scholarship (German Academic Exchange Service), Indian Academy of Sciences (IAS) Research Fellowship, and the INSPIRE Fellowship. 
 </div>
 <br>
-See <a href="/projects/">projects</a> for more details!
+See <a href="/projects/">projects</a> for more details! Full CV can be found <a href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:ba46d233-d391-4eda-87be-c46b01cb79d9">here</a>
 <br>
 
 
