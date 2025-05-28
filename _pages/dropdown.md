@@ -6,7 +6,7 @@ nav_order: 6
 dropdown: true
 children: 
     - title: Covalent Inhibitors
-      permalink: /1_project.md/
+      permalink: /research/covalentinhibitor/
     - title: divider
     - title: projects
       permalink: /projects/
