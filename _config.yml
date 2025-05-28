@@ -67,25 +67,25 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: venkatkapil24 # your GitHub user name
+github_username: unnikvb # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: venkatkapil24 # your Twitter handle
+twitter_username: unnikvb # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: https://scholar.google.com/citations?user=F2NMPNQAAAAJ&hl=en # your Google Scholar ID
-orcid_id: 0000-0003-0324-2198 # your ORCID ID
+orcid_id:  # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.ch.cam.ac.uk/person/vk380 # work page URL
+work_url: https://www.ch.cam.ac.uk/person/uv207 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The best way to reach me is through my work email vk380@cam.ac.uk
+  The best way to reach me is through my work email uv207@cam.ac.uk
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
