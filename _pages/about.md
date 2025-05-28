@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post Doctoral Research Associate, <a href='https://www.ch.cam.ac.uk/rig/tmi/about'> Department of Chemistry <a>, University of Cambridge, UK <br> PhD in Chemistry,  <a href='https://www.clarehall.cam.ac.uk'>Clare Hall</a>, University of Cambridge, UK
+subtitle: Post Doctoral Research Associate, <a href='https://www.ch.cam.ac.uk/rig/biological/about'> Department of Chemistry <a>, University of Cambridge, UK <br> PhD in Chemistry,  <a href='https://www.clarehall.cam.ac.uk'>Clare Hall</a>, University of Cambridge, UK
 profile:
   align: right
   image: my-photo.jpg
