@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: We work on many exciting scientific projects broadly described by (but not limited to) the categories below.
 nav: true
-nav_order: 2
+nav_order: 
 display_categories: [work]
 horizontal: false
 ---
