@@ -1,0 +1,21 @@
+{%- assign ref = reference -%}
+<div class="reference">
+  <div class="ref-year">{{ ref.year }}</div>
+
+  <div class="ref-body">
+    {%- if ref.url -%}
+      <a href="{{ ref.url }}" target="_blank" rel="noopener">
+        <span class="ref-title">{{ ref.title }}</span>
+      </a>
+    {%- elsif ref.doi -%}
+      <a href="https://doi.org/{{ ref.doi }}" target="_blank" rel="noopener">
+        <span class="ref-title">{{ ref.title }}</span>
+      </a>
+    {%- else -%}
+      <span class="ref-title">{{ ref.title }}</span>
+    {%- endif -%}
+
+    <div class="ref-authors">{{ ref.author }}</div>
+    <div class="ref-journal">{{ ref.journal }} {{ ref.year }}</div>
+  </div>
+</div>
