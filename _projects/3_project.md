@@ -14,7 +14,7 @@ write about protein chemistry project here
   {% bibliography -f papers -q @*[pi=true]* %}
 </div>
 
-Purushottam, L; Unnikrishnan, V. B.; Gujrati, M.; Adusumalli, S.; Rawale, D. G.; Mishra, R. K.; Rai, V. Single amino acid Gly-tag enables metal-free protein purification. <i>Chem. Sci.</i> <b>2020</b>, <i>11</i>, 13137-13142. <br>
+1. Purushottam, L; Unnikrishnan, V. B.; Gujrati, M.; Adusumalli, S.; Rawale, D. G.; Mishra, R. K.; Rai, V. Single amino acid Gly-tag enables metal-free protein purification. <i>Chem. Sci.</i> <b>2020</b>, <i>11</i>, 13137-13142. <br>
 (Equal first-author contribution) <br>
 (Part of themed collection: Most Popular 2019-2020 Chemical Biology Articles of Chem. Sci) <br>
 (Gly-Tag® purification resin @Plabeltech)<br>
