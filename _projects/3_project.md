@@ -19,5 +19,5 @@ write about protein chemistry project here
 (Part of themed collection: Most Popular 2019-2020 Chemical Biology Articles of Chem. Sci) <br>
 (Gly-Tag® purification resin @Plabeltech)<br>
 <br>
-2. Purushottam, L.; Adusumalli, S.; Singh, U.; Unnikrishnan, V. B.; Rawale, D. G.; Gujrati, M.; Mishra, R. K.; Rai, V. Single-site glycine-specific labeling of proteins. <i>Nat. Commun.</i> <b>2019</b>, <i>10</i>, 1100-1103. 
+2. Purushottam, L.; Adusumalli, S.; Singh, U.; Unnikrishnan, V. B.; Rawale, D. G.; Gujrati, M.; Mishra, R. K.; Rai, V. Single-site glycine-specific labeling of proteins. <i>Nat. Commun.</i> <b>2019</b>, <i>10</i>, 1100-1103.<br>
 (Featured in Editors’ Highlights of Nature Communications)
