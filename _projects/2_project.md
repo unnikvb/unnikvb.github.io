@@ -20,7 +20,7 @@ We are now expanding this toolbox across a broader palette of metals, payloads, 
   {% bibliography -f papers -q @*[pi=true]* %}
 </div>
 
-1. Unnikrishnan, V. B.; Sabatino, V.; Amorim, F.; Estrada, M. F.; Navo, C. D.; Jimenez-Oses, G.; Fior, R.; Bernardes, G. J. L. Gold (III)-Induced Amide Bond Cleavage In Vivo: A Dual Release Strategy via π-acid Catalysed Allyl Substitution. J. Am. Chem. Soc. 2024, 146, 23240-2325. <br>
+1. Unnikrishnan, V. B.; Sabatino, V.; Amorim, F.; Estrada, M. F.; Navo, C. D.; Jimenez-Oses, G.; Fior, R.; Bernardes, G. J. L. Gold (III)-Induced Amide Bond Cleavage In Vivo: A Dual Release Strategy via π-acid Catalysed Allyl Substitution. <i>J. Am. Chem. Soc.</i> <b>2024</b>, <i>146</i>, 23240-2325. <br>
 <br>
-2. Oliveira, B. L.; Stenton, B. J.; Unnikrishnan, V. B.;, Conde, J.; Almeida, C.; Negr ̃ao, M.; Ferreira, M. G.; Caramori, G. F.; Domingos, J. B.; Fior, R.; Bernardes, G. J. L. Platinum-triggered bond cleavage of pentynoyl amide and N-propargyl handles for drug activation in vivo. J. Am. Chem. Soc. 2020, 24, 10869–10880. <br>
+2. Oliveira, B. L.; Stenton, B. J.; Unnikrishnan, V. B.;, Conde, J.; Almeida, C.; Negrao, M.; Ferreira, M. G.; Caramori, G. F.; Domingos, J. B.; Fior, R.; Bernardes, G. J. L. Platinum-triggered bond cleavage of pentynoyl amide and N-propargyl handles for drug activation in vivo. <i>J. Am. Chem. Soc.</i> <b>2020</b>, <i>24</i>, 10869–10880. <br>
 (Featured as the supplementary cover page for the Journal of American Chemical Society)
