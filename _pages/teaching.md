@@ -12,5 +12,5 @@ Michaelmas Term 2025
 Department of Chemistry, University of Cambridge, UK
 
 
-## Materials
+Materials:
 - [Syllabus (PDF)](/assets/teaching/syllabus.pdf)
