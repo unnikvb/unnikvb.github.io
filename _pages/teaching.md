@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Courses, mentoring, and teaching materials.
 nav: true
-nav_order: 2   # shows after Publications if Publications is 1
+nav_order: 2  
 ---
 
 M2: Bioorthogonal Chemistry for Biology and Medicine
