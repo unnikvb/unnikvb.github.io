@@ -18,5 +18,5 @@ nav_order: 2
 
 Materials:
 
-<a href="https://www.ch.cam.ac.uk/news/three-year-project-culminates-new-molecules-targeted-imaging-and-drug-delivery?fbclid=IwY2xjawFJmZtleHRuA2FlbQIxMAABHQPElkfcvFOeRw0Q7KNDVawpzdU-PEuio8mBgpv7qfehfqFbAg74eilXpQ_aem_z399kwoB2tPhgYgASecJcQ](https://acrobat.adobe.com/id/urn:aaid:sc:AP:06dbfcc5-4c09-48b4-89f4-21feff108738"> - Syllabus (PDF) </a>)
+<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:06dbfcc5-4c09-48b4-89f4-21feff108738"> - Syllabus (PDF) </a>) 
 
