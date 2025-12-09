@@ -17,4 +17,4 @@ nav_order: 2
 <br> This course was designed and taught for Part III (Dept of Chemistry, Cambridge) by Unnikrishnan V. B
 
 Materials:
-- [Syllabus (PDF)](/assets/teaching/syllabus.pdf)
+- [Syllabus (PDF)](/assets/teaching/syllabus.pdf)  https://acrobat.adobe.com/id/urn:aaid:sc:AP:06dbfcc5-4c09-48b4-89f4-21feff108738
