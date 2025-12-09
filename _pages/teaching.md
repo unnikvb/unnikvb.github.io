@@ -18,5 +18,10 @@ nav_order: 2
 
 Materials:
 
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:06dbfcc5-4c09-48b4-89f4-21feff108738"> - Syllabus (PDF) </a>) 
+- <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:06dbfcc5-4c09-48b4-89f4-21feff108738"> Syllabus (PDF) </a>
+- <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:2017578b-f01f-49bd-8206-e58c720fa837"> Handout (Filled) (PDF) </a>
+- <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:170c5513-6747-4dc8-8308-071461f62eff"> Model Lecture Slide (Lecture 1) (PDF) </a>
+- <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:7c63e993-41e9-403d-9b18-9a5875678610"> Supervision Questions (PDF) </a>
+
+Please contact if you are interested in full course material
 
