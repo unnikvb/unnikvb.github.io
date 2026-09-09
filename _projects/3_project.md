@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-page under construction
+Selective protein chemistry makes it possible to attach useful probes or isolate a protein while preserving its biological role. Research on the N-terminal glycine residue established a route to single-site protein labelling. Building on this chemistry, the Gly-tag approach enables selective capture and release for protein purification without a metal affinity tag.
 
 <div class="publications">
   <h2>Selected Publications</h2>
